@@ -8,11 +8,12 @@ Windows(64bit): [GDrive](https://drive.google.com/file/d/1cakhcK2CVZF2f6HI4Ge5RF
 Mac: [GDrive](https://drive.google.com/file/d/1BV8AD4chaY5PsGpkUpUlL_LyVr89BlzY/view?usp=sharing, "Mac")
 
 ## 조작 방법
-* W, Space: 점프
-* Q: 스킬 1 사용
-* E: 스킬 2 사용
-* S: 상호작용(문 열기, 열쇠 줍기, 스위치 켜기, 포탈 사용)
-* ESC: 일시정지
+게임패드를 지원합니다.
+* W, Space, 전면 아래 버튼: 점프
+* Q, 왼쪽 숄더: 스킬 1 사용
+* E, 오른쪽 숄더: 스킬 2 사용
+* S, 전면 오른쪽 버튼: 상호작용(문 열기, 열쇠 줍기, 스위치 켜기, 포탈 사용)
+* ESC, 전면 왼쪽 버튼: 일시정지
 
 기타: 스킬 선택 시 장비된 스킬을 클릭해 해제 가능
 
@@ -23,3 +24,6 @@ Mac: [GDrive](https://drive.google.com/file/d/1BV8AD4chaY5PsGpkUpUlL_LyVr89BlzY/
 * Double Jump: 패시브. 점프 가능 횟수가 추가됩니다.
 * Glide: 사용 중 받는 중력을 크게 줄입니다.
 * Keep Jump: 패시브. 점프 높이가 높아지지만, 멈출 수 없습니다.
+
+## 버그 제보
+[메일](mailto:km19809@khu.ac.kr)로 보내주시거나 [Issue](https://github.com/GamePXDesign6/DaedalusPublic/issues)에 남겨주세요.
